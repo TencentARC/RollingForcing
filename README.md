@@ -21,6 +21,8 @@
 
 ## 💡 TL;DR: ***REAL-TIME*** streaming generation of ***MULTI-MINUTE*** videos!
 
+https://github.com/user-attachments/assets/7b43ded2-7f29-41a1-8244-a1fc49c418e5
+
 - 🚀 **Real-Time at 16 FPS**:​​ Stream high-quality video directly from text on a ​single GPU.
 - 🎬 **Minute-Long Videos**:​​ Generate coherent, multi-minute sequences with ​dramatically reduced drift.
 - ​⚙️ **Rolling-Window Strategy**:​​ Denoise frames together in a rolling window for mutual refinement, ​breaking the chain of error accumulation.
