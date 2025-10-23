@@ -64,7 +64,7 @@ Run a local web demo that takes a text prompt and shows the generated video.
 1) Ensure the Wan base model and checkpoint above are downloaded.
 2) Launch the app:
 ```
-python app_gradio.py \
+python app.py \
   --config_path configs/rolling_forcing_dmd.yaml \
   --checkpoint_path checkpoints/rolling_forcing_dmd.pt
 ```
