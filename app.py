@@ -7,7 +7,7 @@ import torch
 from torchvision.io import write_video
 from omegaconf import OmegaConf
 from einops import rearrange
-import app as gr
+import gradio as gr
 
 from pipeline import CausalDiffusionInferencePipeline, CausalInferencePipeline
 

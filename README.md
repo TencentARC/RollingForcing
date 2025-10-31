@@ -15,7 +15,7 @@
     <a href="https://personal.ntu.edu.sg/shijian.lu/">Shijian Lu</a><sup>1</sup><br>
     <sup>1</sup>Nanyang Technological University <sup>2</sup>ARC Lab, Tencent PCG
   </p>
-  <h3 align="center"><a href="https://arxiv.org/abs/2509.25161"><img src="https://img.shields.io/badge/ArXiv-Paper-brown"></a> <a href="https://kunhao-liu.github.io/Rolling_Forcing_Webpage/"><img src="https://img.shields.io/badge/Project-Webpage-bron"></a> <a href="https://github.com/TencentARC/RollingForcing"><img src="https://img.shields.io/badge/GitHub-Code-blue"></a> <a href="https://huggingface.co/TencentARC/RollingForcing"><img src="https://img.shields.io/badge/HuggingFace-Model-yellow"></a></h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2509.25161"><img src="https://img.shields.io/badge/ArXiv-Paper-brown"></a> <a href="https://kunhao-liu.github.io/Rolling_Forcing_Webpage/"><img src="https://img.shields.io/badge/Project-Webpage-bron"></a> <a href="https://github.com/TencentARC/RollingForcing"><img src="https://img.shields.io/badge/GitHub-Code-blue"></a> <a href="https://huggingface.co/TencentARC/RollingForcing"><img src="https://img.shields.io/badge/HuggingFace-Model-yellow"></a> <a href="https://huggingface.co/spaces/TencentARC/RollingForcing"><img src="https://img.shields.io/badge/HuggingFace-Demo-yellow"></a></h3>
 </p>
 
 
